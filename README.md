@@ -1,4 +1,4 @@
-# Computational Linguistics Project
+# Generative AI
 
 ## 📌 Project Title
 Word Embedding Generation using CBOW and Skip-Gram Models
