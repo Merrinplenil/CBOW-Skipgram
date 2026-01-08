@@ -1,0 +1,35 @@
+Query word: login
+1. for (0.6902)
+2. close (0.6373)
+3. check (0.6222)
+4. a (0.5331)
+5. logs (0.4599)
+
+Query word: malware
+1. indicators (0.7568)
+2. authentication (0.7014)
+3. risk (0.5768)
+4. multifactor (0.5280)
+5. data (0.5146)
+
+Query word: authentication
+1. multifactor (0.7729)
+2. malware (0.7014)
+3. exfiltration (0.5540)
+4. close (0.4429)
+5. containment (0.3651)
+
+Query word: encryption
+1. backup (0.7407)
+2. vulnerabilities (0.5007)
+3. to (0.4900)
+4. takeover (0.4245)
+5. regular (0.4036)
+
+Query word: access
+1. security (0.6606)
+2. patch (0.5833)
+3. data (0.5822)
+4. compliance (0.4897)
+5. standards (0.4887)
+
