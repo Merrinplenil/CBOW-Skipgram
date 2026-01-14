@@ -155,7 +155,7 @@ For each query word, Top-5 nearest neighbours were computed using cosine similar
 
 Results saved to:
 
-similarity_results.txt
+similarity_results_skipgram.txt ,similarity_results_cbow.txt
 
 Tools and Technologies
 
